@@ -1,0 +1,22 @@
+F:\RelogioTA\prjRelogioTA\bin\Debug\prjRelogioTA.exe.config
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjRelogio\prjRelogioTA\bin\Debug\prjRelogioTA.exe.config
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjRelogio\prjRelogioTA\bin\Debug\prjRelogioTA.exe
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjRelogio\prjRelogioTA\bin\Debug\prjRelogioTA.pdb
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjRelogio\prjRelogioTA\obj\Debug\prjRelogioTA.csprojResolveAssemblyReference.cache
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjRelogio\prjRelogioTA\obj\Debug\prjRelogioTA.Properties.Resources.resources
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjRelogio\prjRelogioTA\obj\Debug\prjRelogioTA.csproj.GenerateResource.Cache
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjRelogio\prjRelogioTA\obj\Debug\prjRelogioTA.exe
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjRelogio\prjRelogioTA\obj\Debug\prjRelogioTA.pdb
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjRelogio\prjRelogioTA\obj\Debug\prjRelogioTA.Form1.resources
+D:\Arquivos\ETEC 2ºModulo\DS\prjRelogio\prjRelogioTA\bin\Debug\prjRelogioTA.exe.config
+D:\Arquivos\ETEC 2ºModulo\DS\prjRelogio\prjRelogioTA\obj\Debug\prjRelogioTA.exe
+D:\Arquivos\ETEC 2ºModulo\DS\prjRelogio\prjRelogioTA\obj\Debug\prjRelogioTA.pdb
+D:\Arquivos\ETEC 2ºModulo\DS\Relogio\prjRelogioTA\bin\Debug\prjRelogioTA.exe.config
+D:\Arquivos\ETEC 2ºModulo\DS\Relogio\prjRelogioTA\obj\Debug\prjRelogioTA.exe
+D:\Arquivos\ETEC 2ºModulo\DS\Relogio\prjRelogioTA\obj\Debug\prjRelogioTA.pdb
+D:\Arquivos\ETEC 2ºModulo\DS\Relogio\prjRelogioTA\bin\Debug\prjRelogioTA.exe
+D:\Arquivos\ETEC 2ºModulo\DS\Relogio\prjRelogioTA\bin\Debug\prjRelogioTA.pdb
+D:\Arquivos\ETEC 2ºModulo\DS\Relogio\prjRelogioTA\obj\Debug\prjRelogioTA.csprojResolveAssemblyReference.cache
+D:\Arquivos\ETEC 2ºModulo\DS\Relogio\prjRelogioTA\obj\Debug\prjRelogioTA.Form1.resources
+D:\Arquivos\ETEC 2ºModulo\DS\Relogio\prjRelogioTA\obj\Debug\prjRelogioTA.Properties.Resources.resources
+D:\Arquivos\ETEC 2ºModulo\DS\Relogio\prjRelogioTA\obj\Debug\prjRelogioTA.csproj.GenerateResource.Cache
